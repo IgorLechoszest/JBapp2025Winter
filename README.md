@@ -1,1 +1,1 @@
-"A Data Science project analyzing data on the usage of generative models embedded within an IDE by users. The goal was to identify trends, visualize the data, and conduct a general analysis of user behavior while using the IDE for coding."
+A Data Science project analyzing data on the usage of generative models embedded within an IDE by users. The goal was to identify trends, visualize the data, and conduct a general analysis of user behavior while using the IDE for coding.
